@@ -76,6 +76,7 @@ ul li a:hover{
 .box-center{
     width: 100%;
     height: 2000px;
+    margin: 0 auto;
 }
 table, tr,th,td
 {
@@ -102,6 +103,10 @@ font-size: 20pt;
 .duoi a{
     text-decoration: none;
     color: black;
+}
+.bando iframe{
+    margin-left: 330px;
+    width: 900px;
 }
 
 
